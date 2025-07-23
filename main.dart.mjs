@@ -5124,6 +5124,7 @@ class CompiledApp {
 "self",
 "Walkup Fee",
 "85",
+"Fuel Surcharge",
 "Heavy Lifting",
 "250",
 "updatedSelection",
