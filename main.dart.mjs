@@ -5112,6 +5112,7 @@ class CompiledApp {
 "Presets",
 "Field Name",
 "Amount",
+"±",
 "Quantity",
 "Add Custom Charge",
 "DropdownMenuCloseBehavior.",
